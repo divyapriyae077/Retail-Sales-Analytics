@@ -1,0 +1,13 @@
+Date,Product,Quantity,UnitPrice,Region
+2026-01-05,Notebook,10,2.50,North
+2026-01-08,Pen,25,1.20,South
+2026-01-12,Backpack,3,25.00,East
+2026-01-18,Notebook,15,2.50,West
+2026-02-02,Pen,30,1.20,North
+2026-02-06,Backpack,4,25.00,South
+2026-02-11,Notebook,20,2.50,East
+2026-02-16,Pen,18,1.20,West
+2026-03-03,Backpack,2,25.00,North
+2026-03-09,Notebook,12,2.50,South
+2026-03-14,Pen,40,1.20,East
+2026-03-20,Backpack,5,25.00,West
